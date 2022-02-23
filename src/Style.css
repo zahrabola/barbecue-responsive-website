@@ -9,7 +9,7 @@ main {
   min-height: 900px;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   position: relative;
 }
 @media only screen and (max-width: 767px) {
@@ -28,7 +28,7 @@ p {
 .Home {
   position: relative;
   width: 100%;
-  min-height: 120vh;
+  min-height: 110vh;
   display: flex;
   justify-content: center;
 }
