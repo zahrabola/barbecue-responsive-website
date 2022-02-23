@@ -6,8 +6,7 @@
 }
 main {
   background: url(../images/Burger-image.jpg);
-  background-position: center center;
-  width: 1280px;
+  background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
