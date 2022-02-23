@@ -5,7 +5,7 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 main {
-  background-image: url(../images/Burger-image.jpg);
+  background: url(../images/Burger-image.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -117,7 +117,7 @@ h3 {
   text-align: center;
 }
 .cook-img {
-  background-image: url("../images/cooking-image.jpeg");
+  background: url("../images/cooking-image.jpeg");
   min-height: 700px;
   background-position: center;
   background-repeat: no-repeat;
