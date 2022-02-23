@@ -5,12 +5,12 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 main {
-  background: url("../images/Burger-image.jpg");
- max-height: 1000px;
-  background-position: center;
+  background: url(../images/Burger-image.jpg);
+  background-position: center center;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
-  position: relative;
+  background-color: #464646;
 }
 @media only screen and (max-width: 767px) {
   main {
