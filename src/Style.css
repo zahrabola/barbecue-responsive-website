@@ -9,7 +9,7 @@ main {
   min-height: 900px;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   position: relative;
 }
 @media only screen and (max-width: 767px) {
